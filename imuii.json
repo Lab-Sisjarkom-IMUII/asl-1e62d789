@@ -1,0 +1,11 @@
+{
+  "name": "as",
+  "framework": "nextjs",
+  "language": "javascript",
+  "buildCommand": "npm install && npm run build",
+  "startCommand": "npm start",
+  "domain": "asl",
+  "email": "d.raihan2004@gmail.com",
+  "secretKey": "imuii_f7ac6d11f2786aaa43945709adadaafc2cba8eed199289885aafcecbc80aab52",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/asl-1e62d789.git"
+}
